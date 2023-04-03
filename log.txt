@@ -1,0 +1,2 @@
+03/04/2023 12:03:48-https://www.alura.com.br- online: true
+03/04/2023 12:03:51-https://www.caelum.com.br- online: true
